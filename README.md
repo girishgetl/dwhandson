@@ -3,7 +3,7 @@ https://dwtoday.signin.aws.amazon.com/console
 
 # Credentials
 user: dwuserXX
-password: dwonaws2019
+password: dwhandson@2019
 
 # Redshift
 user: awsuser
